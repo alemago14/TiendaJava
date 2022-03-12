@@ -1,0 +1,5 @@
+2653, La Rioja, X, DNI, 23855789
+2804, Mendoza, X, DNI, 12
+3060, Rio Negro 512, B, DU, 78999456
+758, Catamarca 300, A, DNI, 35261453
+661, Santa Fe 1587, B, CUIL, 39789456
